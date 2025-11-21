@@ -1,8 +1,0 @@
-version: "1.0"
-resources:
-  - type: database
-    name: main-db
-    properties:
-      engine: postgres
-      version: "14.0"
-      size: small

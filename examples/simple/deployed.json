@@ -1,0 +1,16 @@
+[
+  {
+    "type": "aws_s3_bucket",
+    "name": "logs",
+    "attrs": {
+      "bucket": "example-logs"
+    }
+  },
+  {
+    "type": "aws_s3_bucket",
+    "name": "metrics",
+    "attrs": {
+      "bucket": "example-metrics"
+    }
+  }
+]
